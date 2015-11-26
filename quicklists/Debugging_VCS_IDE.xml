@@ -7,4 +7,6 @@
   <action id="ChangesView.ApplyPatch" />
   <action id="QuickList.$Separator$" />
   <action id="InvalidateCaches" />
+  <action id="QuickList.$Separator$" />
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" />
 </list>
