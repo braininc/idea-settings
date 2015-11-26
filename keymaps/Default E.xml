@@ -1,0 +1,20 @@
+<keymap version="1" name="Default E" parent="$default">
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad4" />
+  </action>
+  <action id="QuickList.Building&amp;TabWindows">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="QuickList.Debugging&amp;VCS&amp;IDE">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
+</keymap>
