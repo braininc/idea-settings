@@ -12,4 +12,17 @@
       <option name="COMPLETION" value="false" />
     </context>
   </template>
+  <template name="asj" value="org.assertj.core.api.Assertions.assertThat($obj$).$method$$END$" description="assertJ assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="obj" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+    </context>
+  </template>
 </templateSet>
