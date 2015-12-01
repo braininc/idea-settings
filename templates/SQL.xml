@@ -1,0 +1,44 @@
+<templateSet group="SQL">
+  <template name="selcw" value="select count(*) from $table$ $alias$ where $alias$.$field$$END$;" description="select the number of specific rows in a table" toReformat="true" toShortenFQNames="false">
+    <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="alias" expression="complete()" defaultValue="&quot;alias&quot;" alwaysStopAt="true" />
+    <variable name="field" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="selc" value="select count(*) from $table$ $alias$;" description="select the number of specific rows in a table" toReformat="true" toShortenFQNames="false">
+    <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="alias" expression="complete()" defaultValue="&quot;alias&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="seli" value="select * from $table1$ $alias1$&#10;inner join $table2$ $alias2$&#10;on $alias1$.$field1$ = $alias2$.$field2$$END$;" description="select with inner join" toReformat="true" toShortenFQNames="false">
+    <variable name="table1" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="alias1" expression="complete()" defaultValue="&quot;alias&quot;" alwaysStopAt="true" />
+    <variable name="table2" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="alias2" expression="complete()" defaultValue="&quot;alias&quot;" alwaysStopAt="true" />
+    <variable name="field1" expression="complete()" defaultValue="&quot;field&quot;" alwaysStopAt="true" />
+    <variable name="field2" expression="complete()" defaultValue="&quot;field&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="seliw" value="select * from $table1$ $alias1$&#10;inner join $table2$ $alias2$&#10;on $alias1$.$field1$ = $alias2$.$field2$ where $alias1$.$field3$$END$;" description="select with inner join and where" toReformat="true" toShortenFQNames="false">
+    <variable name="table1" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="alias1" expression="complete()" defaultValue="&quot;alias&quot;" alwaysStopAt="true" />
+    <variable name="table2" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="alias2" expression="complete()" defaultValue="&quot;alias&quot;" alwaysStopAt="true" />
+    <variable name="field1" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="field2" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="field3" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="selw" value="select * from $table$ $alias$ where $alias$.$field$$END$;" description="select specific rows from a table" toReformat="true" toShortenFQNames="false">
+    <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="alias" expression="complete()" defaultValue="&quot;alias&quot;" alwaysStopAt="true" />
+    <variable name="field" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
