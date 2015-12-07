@@ -393,6 +393,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="e2e6d6" />
+        <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="e2e6d6" />
       </value>
     </option>
@@ -465,6 +466,7 @@
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="e2e6d6" />
+        <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="e2e6d6" />
       </value>
     </option>
@@ -495,6 +497,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="e2e6d6" />
+        <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="e2e6d6" />
       </value>
     </option>
@@ -519,12 +522,14 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="e2e6d6" />
+        <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="e2e6d6" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="e2e6d6" />
+        <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="e2e6d6" />
       </value>
     </option>
