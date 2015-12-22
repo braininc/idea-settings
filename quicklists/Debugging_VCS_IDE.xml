@@ -3,6 +3,7 @@
   <action id="EvaluateExpression" />
   <action id="XDebugger.MuteBreakpoints" />
   <action id="QuickList.$Separator$" />
+  <action id="Git.Merge" />
   <action id="ChangesView.CreatePatch" />
   <action id="ChangesView.ApplyPatch" />
   <action id="QuickList.$Separator$" />
