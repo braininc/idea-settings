@@ -67,8 +67,4 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="org/springframework/web/servlet/config/spring-mvc-4.1" location="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.1.xsd" />
   </component>
-  <component name="RefactoringSettings">
-    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
-  </component>
 </application>
