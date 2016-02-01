@@ -7,7 +7,6 @@
     <option name="SEARCH_SCOPE" value="Project Files" />
     <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
@@ -21,6 +20,7 @@
       <mask>*.sql</mask>
       <mask>*.gradle</mask>
       <mask>*.java</mask>
+      <mask>*.properties</mask>
       <mask>*.xml</mask>
       <mask>*.*</mask>
     </recentFileMasks>
