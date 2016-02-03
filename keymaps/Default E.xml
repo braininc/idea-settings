@@ -5,6 +5,9 @@
   <action id="EditorEnter">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
   </action>
