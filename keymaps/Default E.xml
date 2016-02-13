@@ -5,6 +5,9 @@
   <action id="EditorEnter">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
   </action>
@@ -18,18 +21,18 @@
     <keyboard-shortcut first-keystroke="alt quote" />
   </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="shift alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="shift alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="shift alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
 </keymap>
