@@ -1,8 +1,4 @@
 <keymap version="1" name="Default E" parent="$default">
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl space" />
-    <keyboard-shortcut first-keystroke="shift slash" />
-  </action>
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
