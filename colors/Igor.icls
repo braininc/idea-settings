@@ -5,16 +5,17 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="ffffff" />
+    <option name="CARET_ROW_COLOR" value="cfefa5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f2f2f2" />
     <option name="GUTTER_BACKGROUND" value="f2f2f2" />
     <option name="INDENT_GUIDE" value="eeeeee" />
     <option name="LINE_NUMBERS_COLOR" value="999999" />
     <option name="METHOD_SEPARATORS_COLOR" value="ffffff" />
+    <option name="RIGHT_MARGIN_COLOR" value="a7a7a7" />
     <option name="SELECTED_INDENT_GUIDE" value="0" />
     <option name="SELECTED_TEARLINE_COLOR" value="eeeeee" />
-    <option name="SELECTION_BACKGROUND" value="eeeeee" />
-    <option name="SELECTION_FOREGROUND" value="0" />
+    <option name="SELECTION_BACKGROUND" value="f6ff5b" />
+    <option name="SELECTION_FOREGROUND" value="808bff" />
     <option name="TEARLINE_COLOR" value="ffffff" />
   </colors>
   <attributes>
@@ -329,7 +330,6 @@
     <option name="DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="242250" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
@@ -394,7 +394,6 @@
     <option name="JAVA_DOC_TAG">
       <value>
         <option name="FOREGROUND" value="1c7b7c" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JAVA_KEYWORD">
@@ -490,8 +489,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="f2f2f2" />
+        <option name="FOREGROUND" value="480a31" />
+        <option name="BACKGROUND" value="f9fbff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -503,7 +502,6 @@
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="18aade" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
