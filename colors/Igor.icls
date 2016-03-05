@@ -1,7 +1,8 @@
 <scheme name="Igor" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="0.9" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
@@ -324,7 +325,6 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="ff1f33" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -337,6 +337,7 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="FOREGROUND" value="ff8600" />
+        <option name="BACKGROUND" value="bfbfbf" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -348,8 +349,9 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff0008" />
+        <option name="BACKGROUND" value="ffcfdd" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -361,6 +363,7 @@
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
         <option name="FOREGROUND" value="ff8600" />
+        <option name="BACKGROUND" value="bfbfbf" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -380,6 +383,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff8600" />
+        <option name="BACKGROUND" value="fff0b3" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -485,6 +489,7 @@
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fb16f0" />
+        <option name="BACKGROUND" value="ffd9fa" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -548,7 +553,8 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="FOREGROUND" value="e610" />
+        <option name="FOREGROUND" value="509f03" />
+        <option name="BACKGROUND" value="e6f2d6" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -556,12 +562,14 @@
     <option name="Unused entry">
       <value>
         <option name="FOREGROUND" value="fb16f0" />
+        <option name="BACKGROUND" value="ffd9fa" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff8600" />
+        <option name="FOREGROUND" value="ca7f35" />
+        <option name="BACKGROUND" value="ffce3e" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -583,6 +591,7 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff1e29" />
+        <option name="BACKGROUND" value="ffcfdd" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
