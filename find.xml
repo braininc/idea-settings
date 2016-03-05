@@ -16,9 +16,10 @@
       <mask>*ntroller.java</mask>
       <mask>*ller.java</mask>
       <mask>*.sql</mask>
-      <mask>*.gradle</mask>
       <mask>*.properties</mask>
       <mask>*.xml</mask>
+      <mask>*.gradle</mask>
+      <mask>*.ipr</mask>
       <mask>*.*</mask>
       <mask>*.java</mask>
     </recentFileMasks>
