@@ -370,7 +370,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="2762b8" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="bfbfbf" />
       </value>
@@ -576,7 +576,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="2762b8" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="bfbfbf" />
       </value>
