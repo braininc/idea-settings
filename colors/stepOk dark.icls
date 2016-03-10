@@ -12,6 +12,7 @@
     <option name="INDENT_GUIDE" value="eeeeee" />
     <option name="LINE_NUMBERS_COLOR" value="999999" />
     <option name="METHOD_SEPARATORS_COLOR" value="ffffff" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="fa31fe" />
     <option name="RIGHT_MARGIN_COLOR" value="a7a7a7" />
     <option name="SELECTED_INDENT_GUIDE" value="0" />
     <option name="SELECTED_TEARLINE_COLOR" value="eeeeee" />
@@ -52,6 +53,12 @@
     </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value />
+    </option>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="fa0802" />
+        <option name="ERROR_STRIPE_COLOR" value="ffc8c8" />
+      </value>
     </option>
     <option name="Block comment">
       <value>
