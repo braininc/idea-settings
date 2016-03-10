@@ -357,6 +357,30 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="ff2596" />
+        <option name="ERROR_STRIPE_COLOR" value="ff2596" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="8f8f8f" />
+        <option name="ERROR_STRIPE_COLOR" value="8f8f8f" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="718e71" />
+        <option name="ERROR_STRIPE_COLOR" value="718e71" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="202c82" />
+        <option name="ERROR_STRIPE_COLOR" value="202c82" />
+      </value>
+    </option>
     <option name="DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="818181" />
