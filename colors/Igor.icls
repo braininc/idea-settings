@@ -4,7 +4,7 @@
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Ayuthaya" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_ROW_COLOR" value="cfefa5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f2f2f2" />
@@ -49,9 +49,6 @@
       <value>
         <option name="FOREGROUND" value="cccccc" />
       </value>
-    </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value />
     </option>
     <option name="Block comment">
       <value>
