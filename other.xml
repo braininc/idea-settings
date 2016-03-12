@@ -67,6 +67,10 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://google-web-toolkit.googlecode.com/svn/trunk/distro-source/core/src/gwt-module.dtd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/e19ed3e2_gwt-module.dtd" />
+    <ignored-resource url="http://google-web-toolkit.googlecode.com/svn/trunk/distro-source/core/src/gwt-module.dtd" />
+  </component>
   <component name="GwtSdkManager">
     <gwt-sdk-list>
       <gwt-sdk url="file://C:/gwt-2.7.0" />
