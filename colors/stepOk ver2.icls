@@ -48,6 +48,9 @@
         <option name="FOREGROUND" value="cccccc" />
       </value>
     </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value />
+    </option>
     <option name="Block comment">
       <value>
         <option name="FOREGROUND" value="cccccc" />

@@ -1,8 +1,10 @@
 <scheme name="ObsidianBlade-DraculaFriendly (smaller)" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="0.9" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LINE_SPACING" value="0.9" />
+  <option name="EDITOR_FONT_NAME" value="Anonymous" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="db4c13" />
@@ -63,6 +65,9 @@
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
       </value>
+    </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value />
     </option>
     <option name="BASH.INTERNAL_COMMAND">
       <value>
