@@ -72,11 +72,6 @@
     <resource url="org/springframework/web/servlet/config/spring-mvc-4.1" location="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.1.xsd" />
     <ignored-resource url="http://google-web-toolkit.googlecode.com/svn/trunk/distro-source/core/src/gwt-module.dtd" />
   </component>
-  <component name="GwtSdkManager">
-    <gwt-sdk-list>
-      <gwt-sdk url="file://C:/gwt-2.7.0" />
-    </gwt-sdk-list>
-  </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
