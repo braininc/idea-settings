@@ -67,6 +67,10 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://google-web-toolkit.googlecode.com/svn/trunk/distro-source/core/src/gwt-module.dtd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/e19ed3e2_gwt-module.dtd" />
+    <ignored-resource url="http://google-web-toolkit.googlecode.com/svn/trunk/distro-source/core/src/gwt-module.dtd" />
+  </component>
   <component name="GwtSdkManager">
     <gwt-sdk-list>
       <gwt-sdk url="file://C:/gwt-2.7.0" />
@@ -74,6 +78,7 @@
   </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
   </component>
