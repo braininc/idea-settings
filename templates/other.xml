@@ -43,4 +43,29 @@
     <variable name="VALUE" expression="variableOfType(CLASS_NAME)" defaultValue="null" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="eq" value="java.util.Objects.equals($var1$, $var2$)$END$" description="java util equals" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="var1" expression="" defaultValue="&quot;obj1&quot;" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="&quot;obj2&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+    </context>
+  </template>
+  <template name="l4j" value="private static final org.apache.log4j.Logger LOGGER = org.apache.log4j.Logger.getLogger($class$.class);" description="log4j logger" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="class" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+    </context>
+  </template>
 </templateSet>
