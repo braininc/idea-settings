@@ -12,20 +12,7 @@
       <option name="COMPLETION" value="false" />
     </context>
   </template>
-  <template name="asj" value="org.assertj.core.api.Assertions.assertThat($obj$).$method$$END$" description="assertJ assertion" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <variable name="obj" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <variable name="method" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
-      <option name="COMPLETION" value="false" />
-    </context>
-  </template>
-  <template name="l4j" value="public static final org.apache.log4j.Logger LOGGER = org.apache.log4j.Logger.getLogger($class$.class);" description="log4j logger" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="l4j" value="private static final org.apache.log4j.Logger LOGGER = org.apache.log4j.Logger.getLogger($class$.class);" description="log4j logger" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="class" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
