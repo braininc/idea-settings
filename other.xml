@@ -69,8 +69,13 @@
   </component>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://google-web-toolkit.googlecode.com/svn/trunk/distro-source/core/src/gwt-module.dtd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/e19ed3e2_gwt-module.dtd" />
-    <resource url="org/springframework/web/servlet/config/spring-mvc-4.1" location="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.1.xsd" />
+    <resource url="org/springframework/web/servlet/config/spring-mvc-4.1" location="C:/Users/ystepanenkov/.m2/repository/org/springframework/spring-webmvc/4.1.1.RELEASE/spring-webmvc-4.1.1.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.1.xsd" />
     <ignored-resource url="http://google-web-toolkit.googlecode.com/svn/trunk/distro-source/core/src/gwt-module.dtd" />
+  </component>
+  <component name="GwtSdkManager">
+    <gwt-sdk-list>
+      <gwt-sdk url="file://C:/gwt-2.7.0" />
+    </gwt-sdk-list>
   </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
