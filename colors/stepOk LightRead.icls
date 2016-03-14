@@ -1,8 +1,8 @@
-<scheme name="stepOk ver2" version="142" parent_scheme="Default">
+<scheme name="stepOk LightRead" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="20" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_FONT_NAME" value="ProggyCleanTT CE" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="CARET_ROW_COLOR" value="cfefa5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f2f2f2" />
@@ -142,6 +142,11 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="885d3b" />
+      </value>
+    </option>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -369,7 +374,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="2762b8" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="bfbfbf" />
       </value>
     </option>
@@ -408,13 +413,11 @@
     <option name="JAVA_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="24afb0" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="24afb0" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_DOC_MARKUP">
@@ -430,12 +433,12 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="9a7ecf" />
+        <option name="BACKGROUND" value="f9fbff" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="28cfd0" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -510,20 +513,17 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="885d3b" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="8a9927" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8a9927" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="bdcb2e" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4f27" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="8a9927" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -575,7 +575,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="2762b8" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="bfbfbf" />
       </value>
     </option>
