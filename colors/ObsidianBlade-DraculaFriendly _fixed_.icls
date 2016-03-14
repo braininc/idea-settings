@@ -65,9 +65,6 @@
         <option name="FOREGROUND" value="e0e2e4" />
       </value>
     </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value />
-    </option>
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="7ca8cf" />
