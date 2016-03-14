@@ -9,9 +9,5 @@
       <display-name>Texture.Texture (com.badlogic.gdx.graphics)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("Texture").withParameters("java.lang.String").definedInClass("com.badlogic.gdx.graphics.Texture"))]]></place>
     </injection>
-    <injection language="spring-resource-reference" injector-id="java">
-      <display-name>Value.value (org.springframework.beans.factory.annotation)</display-name>
-      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.beans.factory.annotation.Value")]]></place>
-    </injection>
   </component>
 </application>

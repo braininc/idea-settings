@@ -1,4 +1,4 @@
-<keymap version="1" name="Default E" parent="$default">
+<keymap version="1" name="stepOk" parent="$default">
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
