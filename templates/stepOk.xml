@@ -64,7 +64,7 @@
       <option name="COMPLETION" value="false" />
     </context>
   </template>
-  <template name="mck" value="@org.mockito.Mock&#10;private $type$ $instance$$END$;" description="the mockito mock.... so it is nothing special" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="mk" value="@org.mockito.Mock&#10;private $type$ $instance$$END$;" description="the mockito mock.... so it is nothing special" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="type" expression="" defaultValue="&quot;Type&quot;" alwaysStopAt="true" />
     <variable name="instance" expression="complete()" defaultValue="&quot;var&quot;" alwaysStopAt="true" />
     <context>
@@ -72,7 +72,7 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
-  <template name="mckv" value="org.mockito.Mockito.verify($mock$, org.mockito.Mockito.times($times$)).$methodCall$$END$" description="the mockito verifying the mocked method call (verify)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="mkv" value="org.mockito.Mockito.verify($mock$, org.mockito.Mockito.times($times$)).$methodCall$$END$" description="the mockito verifying the mocked method call (verify)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="mock" expression="" defaultValue="&quot;Mock&quot;" alwaysStopAt="true" />
     <variable name="times" expression="" defaultValue="&quot;Times&quot;" alwaysStopAt="true" />
     <variable name="methodCall" expression="complete()" defaultValue="" alwaysStopAt="true" />
@@ -84,7 +84,7 @@
       <option name="COMPLETION" value="false" />
     </context>
   </template>
-  <template name="mckw" value="org.mockito.Mockito.when($expression$).$then$$END$" description="the mockito mocking a method (when)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="mkw" value="org.mockito.Mockito.when($expression$).$then$$END$" description="the mockito mocking a method (when)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="expression" expression="" defaultValue="&quot;Expression&quot;" alwaysStopAt="true" />
     <variable name="then" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
