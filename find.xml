@@ -3,7 +3,7 @@
     <option name="customScope" value="File 'C:\workspace\server-galaxy\web\src\main\java\com\netpulse\web\service\FieldValidationService.java'" />
     <option name="defaultScopeName" value="File 'C:\workspace\server-galaxy\web\src\main\java\com\netpulse\web\service\FieldValidationService.java'" />
     <option name="SEARCH_SCOPE" value="File 'C:\workspace\server-galaxy\web\src\main\java\com\netpulse\web\service\FieldValidationService.java'" />
-    <option name="FILE_MASK" value="*.gradle" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -15,13 +15,13 @@
       <mask>*Controller.java</mask>
       <mask>*ntroller.java</mask>
       <mask>*ller.java</mask>
-      <mask>*.sql</mask>
       <mask>*.properties</mask>
       <mask>*.xml</mask>
       <mask>*.ipr</mask>
       <mask>*.java</mask>
       <mask>*.*</mask>
       <mask>*.gradle</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
