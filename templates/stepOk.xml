@@ -73,8 +73,8 @@
     </context>
   </template>
   <template name="mkv" value="org.mockito.Mockito.verify($mock$, org.mockito.Mockito.times($times$)).$methodCall$$END$" description="the mockito verifying the mocked method call (verify)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <variable name="mock" expression="" defaultValue="&quot;Mock&quot;" alwaysStopAt="true" />
-    <variable name="times" expression="" defaultValue="&quot;Times&quot;" alwaysStopAt="true" />
+    <variable name="mock" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="times" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <variable name="methodCall" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
@@ -164,6 +164,18 @@
       <option name="JAVA_DECLARATION" value="true" />
       <option name="GROOVY" value="false" />
       <option name="GROOVY_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="s4j" value="private static final org.slf4j.Logger LOGGER = org.slf4j.LoggerFactory.getLogger($class$.class);&#10;" description="slf4j Logger" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="class" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
     </context>
   </template>
 </templateSet>
