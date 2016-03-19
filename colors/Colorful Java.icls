@@ -936,6 +936,9 @@
         <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR">
+      <value />
+    </option>
     <option name="PROPERTIES.VALUE">
       <value>
         <option name="FOREGROUND" value="6a8759" />
