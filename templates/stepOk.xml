@@ -189,4 +189,14 @@
       <option name="COMPLETION" value="false" />
     </context>
   </template>
+  <template name="mkn" value=" org.mockito.Mockito.doNothing().when($mock$).$method$$END$" description="do noting mockito" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="mock" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="COMPLETION" value="false" />
+    </context>
+  </template>
 </templateSet>
