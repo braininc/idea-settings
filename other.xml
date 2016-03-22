@@ -1,9 +1,4 @@
 <application>
-  <component name="GwtSdkManager">
-    <gwt-sdk-list>
-      <gwt-sdk url="file://C:/gwt-2.7.0" />
-    </gwt-sdk-list>
-  </component>
   <component name="RecentTaskRepositories">
     <JIRA shared="false" url="https://npjira.atlassian.net">
       <option name="apiType" value="REST_2_0" />
