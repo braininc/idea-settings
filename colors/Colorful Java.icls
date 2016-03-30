@@ -1077,6 +1077,7 @@
     </option>
     <option name="TEXT">
       <value>
+        <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="ffffff" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
