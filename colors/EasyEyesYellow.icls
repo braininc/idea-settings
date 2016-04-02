@@ -1,9 +1,9 @@
 <scheme name="EasyEyesYellow" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Anonymous Pro Minus" />
   <option name="CONSOLE_FONT_SIZE" value="10" />
-  <option name="EDITOR_FONT_NAME" value="Anonymous Pro Minus" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="CARET_ROW_COLOR" value="f6f6f6" />
     <option name="CONSOLE_BACKGROUND_KEY" value="ffffe6" />
