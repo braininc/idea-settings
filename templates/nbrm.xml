@@ -1,5 +1,5 @@
 <templateSet group="nbrm">
-  <template name="nbl" value="private static final com.stepbystep.nbrm.core.logging.Logger LOGGER = com.stepbystep.nbrm.core.logging.LoggerFactory.produce($class$.class);" description="nbrm logger" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="nbl" value="private static final com.stepbystep.nbrm.core.logging.Logger LOGGER = com.stepbystep.nbrm.core.logging.LoggerFactory.getLogger($class$.class);" description="nbrm logger" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="class" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
