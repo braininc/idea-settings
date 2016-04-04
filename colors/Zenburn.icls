@@ -1,9 +1,11 @@
 <scheme name="Zenburn" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="0.9" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -59,6 +61,9 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value />
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
@@ -169,6 +174,11 @@
         <option name="FOREGROUND" value="8acccf" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="bddfff" />
+      </value>
+    </option>
     <option name="DEFAULT_BRACES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -197,7 +207,6 @@
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="53dccd" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -272,10 +281,15 @@
         <option name="FOREGROUND" value="efefaf" />
       </value>
     </option>
+    <option name="DEFAULT_LABEL">
+      <value>
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="7f9f7f" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -455,12 +469,26 @@
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b3b784" />
-        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b3b784" />
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cae682" />
+      </value>
+    </option>
+    <option name="JAVA_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="JAVA_INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -504,7 +532,11 @@
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="93a2cc" />
-        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="e89be8" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">

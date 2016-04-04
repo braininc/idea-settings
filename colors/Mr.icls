@@ -1,9 +1,11 @@
 <scheme name="Mr" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_ROW_COLOR" value="ffd7a4" />
@@ -37,6 +39,9 @@
       <value>
         <option name="FOREGROUND" value="d8d8d8" />
       </value>
+    </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value />
     </option>
     <option name="Block comment">
       <value>

@@ -1,7 +1,9 @@
 <scheme name="Roboticket" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="LINE_SPACING" value="0.9" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Courier New" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e0e0ff" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f5f5f5" />
@@ -42,6 +44,9 @@
         <option name="FOREGROUND" value="ab2525" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value />
     </option>
     <option name="Block comment">
       <value>
