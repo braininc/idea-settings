@@ -210,4 +210,12 @@
       <option name="COMPLETION" value="false" />
     </context>
   </template>
+  <template name="mki" value="@org.mockito.InjectMocks&#10;private $type$ $instance$$END$;" description="the inject mockito mock (via annotation)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="type" expression="" defaultValue="&quot;Type&quot;" alwaysStopAt="true" />
+    <variable name="instance" expression="complete()" defaultValue="&quot;var&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
 </templateSet>
