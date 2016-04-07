@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -19,9 +19,9 @@
       <mask>*.xml</mask>
       <mask>*.ipr</mask>
       <mask>*.java</mask>
-      <mask>*.*</mask>
       <mask>*.gradle</mask>
       <mask>*.sql</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
