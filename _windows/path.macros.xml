@@ -5,7 +5,8 @@
     <macro name="JAVA7_HOME" value="C:/Program Files/Java/jdk1.7.0_79" />
     <macro name="JAVA8_HOME" value="C:/Program Files/Java/jdk1.8.0_65" />
     <macro name="KOTLIN_BUNDLED" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.1\plugins\Kotlin\kotlinc" />
-    <macro name="MAVEN_REPOSITORY" value="C:\Users\ystepanenkov\.m2\repository" />
+    <macro name="MAVEN_REPOSITORY" value="C:/Users/Администратор/.m2/repository" />
+    <macro name="MYSQL_HOME" value="C:/Program Files/MySQL/MySQL Server 5.6" />
     <macro name="WINBASH_HOME" value="C:/shell.w32-ix86" />
   </component>
 </application>
