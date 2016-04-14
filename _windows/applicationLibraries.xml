@@ -1,4 +1,9 @@
 <application>
+  <component name="GwtSdkManager">
+    <gwt-sdk-list>
+      <gwt-sdk url="file://C:/gwt-2.7.0" />
+    </gwt-sdk-list>
+  </component>
   <component name="libraryTable">
     <library name="Python 2.7.11 (C:\Python27\python.exe) interpreter library">
       <CLASSES>
