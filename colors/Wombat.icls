@@ -166,6 +166,11 @@
         <option name="FOREGROUND" value="f08080" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="76cbff" />
+      </value>
+    </option>
     <option name="DEFAULT_BRACES">
       <value>
         <option name="FOREGROUND" value="f3f6ee" />
@@ -499,7 +504,7 @@
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ed78f1" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
