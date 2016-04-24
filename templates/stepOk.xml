@@ -218,4 +218,10 @@
       <option name="COMPLETION" value="true" />
     </context>
   </template>
+  <template name="iam" value="/**&#10; * @author Eugene Stepanenkov&#10; */" description="my name with author tag" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+    </context>
+  </template>
 </templateSet>
