@@ -27,9 +27,6 @@
         <option name="FOREGROUND" value="333333" />
       </value>
     </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value />
-    </option>
     <option name="Block comment">
       <value>
         <option name="FOREGROUND" value="ff9900" />
