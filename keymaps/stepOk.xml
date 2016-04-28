@@ -14,9 +14,11 @@
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt numpad4" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="QuickList.Building&amp;TabWindows">
     <keyboard-shortcut first-keystroke="alt semicolon" />
