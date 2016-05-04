@@ -28395,7 +28395,7 @@
         <entry key="dnsbin-cli" value="0.0.3" />
         <entry key="dnschain" value="0.1.0" />
         <entry key="dnscherry" value="0.1.3" />
-        <entry key="dnsdiag" value="1.3.2" />
+        <entry key="dnsdiag" value="1.3.1" />
         <entry key="dnsfailover" value="0.0.4" />
         <entry key="dnsfiles" value="0.3.0" />
         <entry key="dnsimple" value="0.1.0" />
@@ -31587,7 +31587,7 @@
         <entry key="ff-find" value="1.0.5" />
         <entry key="ff-kit" value="0.0.1" />
         <entry key="ff-kit-zhifeng" value="0.0.1" />
-        <entry key="ff-tool" value="0.0.2" />
+        <entry key="ff-tool" value="0.0.1" />
         <entry key="ffflash" value="0.9a6" />
         <entry key="ffind" value="0.9.1" />
         <entry key="ffindex" value="0.0.3" />
@@ -78122,6 +78122,6 @@
         <entry key="zzzfs" value="0.1" />
       </map>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1462338593129" />
+    <option name="LAST_TIME_CHECKED" value="1462337427190" />
   </component>
 </application>
