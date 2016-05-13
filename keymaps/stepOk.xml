@@ -16,6 +16,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
     <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl alt numpad4" />
     <keyboard-shortcut first-keystroke="alt close_bracket" />
