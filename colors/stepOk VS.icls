@@ -1,10 +1,8 @@
 <scheme name="stepOk VS" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="24" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Anonymous Pro Minus" />
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="EDITOR_FONT_NAME" value="Anonymous Pro" />
+  <option name="EDITOR_FONT_NAME" value="Anonymous Pro Minus" />
   <colors>
     <option name="CARET_ROW_COLOR" value="eeeeee" />
     <option name="GUTTER_BACKGROUND" value="e0dde6" />
