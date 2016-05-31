@@ -1,12 +1,10 @@
 <scheme name="stepOk Retro" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="28" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_FONT_SIZE" value="24" />
+  <option name="EDITOR_FONT_NAME" value="Anonymous Pro Minus" />
   <colors>
     <option name="CARET_COLOR" value="21a8fe" />
-    <option name="CARET_ROW_COLOR" value="0" />
+    <option name="CARET_ROW_COLOR" value="56957f" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f2f2f2" />
     <option name="GUTTER_BACKGROUND" value="f2f2f2" />
     <option name="INDENT_GUIDE" value="eeeeee" />
@@ -323,7 +321,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="e16a60" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -333,7 +331,7 @@
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="d662e1" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -479,7 +477,7 @@
     </option>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="b7dbf4" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
@@ -544,6 +542,29 @@
     <option name="PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f6ceb3" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="dfbd24" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="dfbd24" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="dfbd24" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e986de" />
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
