@@ -437,7 +437,7 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="9a7ecf" />
-        <option name="BACKGROUND" value="f9fbff" />
+        <option name="BACKGROUND" value="e1e3e7" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
@@ -541,7 +541,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="480a31" />
-        <option name="BACKGROUND" value="f9fbff" />
+        <option name="BACKGROUND" value="e1e3e7" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
