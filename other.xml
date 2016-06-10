@@ -15,6 +15,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:C:/workspace/server-galaxy/conf/codestyle_intellij_idea.xml" />
+  </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
