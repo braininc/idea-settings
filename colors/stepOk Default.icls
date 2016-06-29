@@ -13,6 +13,9 @@
         <option name="FOREGROUND" value="386a5d" />
       </value>
     </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value />
+    </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="386a5d" />
