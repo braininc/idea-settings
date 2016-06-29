@@ -15,6 +15,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:C:/workspace/server-galaxy/conf/codestyle_intellij_idea.xml" />
+  </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
@@ -60,5 +63,17 @@
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="private" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://subversion.assembla.com/svn/dwyser/trunk/libGDX/snake" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://subversion.assembla.com/svn/dwyser/trunk/libGDX/snake" />
+      </list>
+    </option>
   </component>
 </application>
