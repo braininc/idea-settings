@@ -1,11 +1,10 @@
 <scheme name="stepOk LightRead" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="24" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Anonymous Pro Minus" />
-  <option name="CONSOLE_FONT_SIZE" value="22" />
+  <option name="CONSOLE_FONT_SIZE" value="20" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Anonymous Pro Minus" />
   <colors>
     <option name="CARET_ROW_COLOR" value="cfefa5" />
@@ -51,6 +50,9 @@
       <value>
         <option name="FOREGROUND" value="cccccc" />
       </value>
+    </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value />
     </option>
     <option name="Block comment">
       <value>
@@ -437,7 +439,7 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="9a7ecf" />
-        <option name="BACKGROUND" value="e1e3e7" />
+        <option name="BACKGROUND" value="f9fbff" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
@@ -523,7 +525,7 @@
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="858f20" />
+        <option name="FOREGROUND" value="bdcb2e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -541,7 +543,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="480a31" />
-        <option name="BACKGROUND" value="e1e3e7" />
+        <option name="BACKGROUND" value="f9fbff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
