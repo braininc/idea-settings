@@ -19,6 +19,7 @@
   </option>
   <option name="RIGHT_MARGIN" value="125" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <option name="WRAP_COMMENTS" value="true" />
   <MultiMarkdownCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MultiMarkdownCodeStyleSettings>
@@ -31,7 +32,6 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
-    <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="WRAP_ON_TYPING" value="1" />
