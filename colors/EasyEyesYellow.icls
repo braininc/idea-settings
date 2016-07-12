@@ -1,6 +1,6 @@
 <scheme name="EasyEyesYellow" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="26" />
+  <option name="EDITOR_FONT_SIZE" value="28" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_ROW_COLOR" value="f6f6f6" />
@@ -35,9 +35,6 @@
       <value>
         <option name="FOREGROUND" value="cccccc" />
       </value>
-    </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value />
     </option>
     <option name="Block comment">
       <value>

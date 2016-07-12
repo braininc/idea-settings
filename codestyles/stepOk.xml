@@ -5,18 +5,22 @@
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1000" />
   <option name="IMPORT_LAYOUT_TABLE">
     <value>
+      <package name="com.netpulse" withSubpackages="true" static="true" />
+      <package name="" withSubpackages="true" static="true" />
       <emptyLine />
       <package name="com.netpulse" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="java" withSubpackages="true" static="false" />
-      <package name="javax" withSubpackages="true" static="false" />
-      <emptyLine />
       <package name="" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="" withSubpackages="true" static="true" />
+      <package name="java" withSubpackages="true" static="false" />
+      <package name="javax" withSubpackages="true" static="false" />
     </value>
   </option>
-  <option name="RIGHT_MARGIN" value="135" />
+  <option name="RIGHT_MARGIN" value="125" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <MultiMarkdownCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MultiMarkdownCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>

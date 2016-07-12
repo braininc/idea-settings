@@ -1,11 +1,8 @@
 <scheme name="DarkObsidianBlade" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="19" />
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="29" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Anonymous Pro Minus" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="EDITOR_FONT_NAME" value="Anonymous Pro Minus" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="db4c13" />
@@ -65,9 +62,6 @@
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
       </value>
-    </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value />
     </option>
     <option name="BASH.INTERNAL_COMMAND">
       <value>
@@ -392,6 +386,7 @@
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
+        <option name="BACKGROUND" value="e76500" />
       </value>
     </option>
     <option name="DIFF_CONFLICT">
@@ -430,6 +425,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="411c1a" />
         <option name="EFFECT_COLOR" value="bc3f3c" />
         <option name="ERROR_STRIPE_COLOR" value="bc3f3c" />
         <option name="EFFECT_TYPE" value="2" />
@@ -487,6 +483,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="41153e" />
         <option name="EFFECT_COLOR" value="aeae80" />
         <option name="ERROR_STRIPE_COLOR" value="aeae80" />
         <option name="EFFECT_TYPE" value="2" />
@@ -652,6 +649,7 @@
     </option>
     <option name="TYPO">
       <value>
+        <option name="BACKGROUND" value="13411b" />
         <option name="EFFECT_COLOR" value="867f27" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -670,7 +668,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3e3e3e" />
+        <option name="BACKGROUND" value="9d7400" />
         <option name="ERROR_STRIPE_COLOR" value="ffca39" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -691,6 +689,7 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff4a47" />
+        <option name="BACKGROUND" value="411312" />
         <option name="EFFECT_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
