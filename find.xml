@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -18,12 +18,12 @@
       <mask>*.xml</mask>
       <mask>*.ipr</mask>
       <mask>*.py</mask>
-      <mask>*.sql</mask>
       <mask>*.gradle</mask>
       <mask>*.conf</mask>
       <mask>*.*</mask>
       <mask>*Controller.java</mask>
       <mask>*.java</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
