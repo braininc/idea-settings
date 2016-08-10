@@ -1,7 +1,8 @@
 <scheme name="stepOk RedTone" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="23" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="CARET_ROW_COLOR" value="eeeeee" />
