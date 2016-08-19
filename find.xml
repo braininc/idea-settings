@@ -12,17 +12,17 @@
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*Service.java</mask>
-      <mask>*Controller.java</mask>
       <mask>*ntroller.java</mask>
       <mask>*ller.java</mask>
       <mask>*.properties</mask>
       <mask>*.xml</mask>
       <mask>*.ipr</mask>
       <mask>*.py</mask>
-      <mask>*.sql</mask>
       <mask>*.gradle</mask>
       <mask>*.conf</mask>
+      <mask>*Controller.java</mask>
       <mask>*.java</mask>
+      <mask>*.sql</mask>
       <mask>*.*</mask>
     </recentFileMasks>
   </component>

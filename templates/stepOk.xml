@@ -4,12 +4,7 @@
     <variable name="type" expression="" defaultValue="&quot;Type&quot;" alwaysStopAt="true" />
     <variable name="instance" expression="" defaultValue="&quot;var&quot;" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_STATEMENT" value="false" />
-      <option name="JAVA_EXPRESSION" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="COMPLETION" value="true" />
     </context>
   </template>
@@ -17,12 +12,7 @@
     <variable name="type" expression="" defaultValue="&quot;Type&quot;" alwaysStopAt="true" />
     <variable name="instance" expression="complete()" defaultValue="&quot;var&quot;" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_STATEMENT" value="false" />
-      <option name="JAVA_EXPRESSION" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="false" />
       <option name="COMPLETION" value="true" />
     </context>
   </template>
@@ -31,8 +21,6 @@
     <variable name="var2" expression="" defaultValue="&quot;obj2&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
       <option name="JAVA_DECLARATION" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
@@ -43,9 +31,6 @@
     <variable name="class" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
       <option name="COMPLETION" value="false" />
@@ -56,8 +41,6 @@
     <variable name="method" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
       <option name="JAVA_DECLARATION" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
@@ -79,9 +62,6 @@
     <context>
       <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="COMPLETION" value="false" />
     </context>
   </template>
   <template name="mkw" value="org.mockito.Mockito.when($expression$).$then$$END$" description="the mockito mocking a method (when)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
@@ -90,9 +70,6 @@
     <context>
       <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
-      <option name="COMPLETION" value="false" />
     </context>
   </template>
   <template name="selcw" value="select count(*) from $table$ $alias$ where $alias$.$field$$END$;" description="select the number of specific rows in a table" toReformat="true" toShortenFQNames="false">
@@ -128,41 +105,31 @@
   </template>
   <template name="prsf" value="private static final " description="private static final" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_CODE" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="GROOVY" value="false" />
       <option name="GROOVY_DECLARATION" value="true" />
     </context>
   </template>
   <template name="prsfi" value="private static final int " description="private static final int" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_CODE" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="GROOVY" value="false" />
       <option name="GROOVY_DECLARATION" value="true" />
     </context>
   </template>
   <template name="prsfl" value="private static final Long " description="private static final Long" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_CODE" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="GROOVY" value="false" />
       <option name="GROOVY_DECLARATION" value="true" />
     </context>
   </template>
   <template name="prsfs" value="private static final String " description="private static final String" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_CODE" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="GROOVY" value="false" />
       <option name="GROOVY_DECLARATION" value="true" />
     </context>
   </template>
   <template name="psfl" value="public static final Long " description="public static final Long" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_CODE" value="false" />
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="GROOVY" value="false" />
       <option name="GROOVY_DECLARATION" value="true" />
     </context>
   </template>
@@ -170,9 +137,6 @@
     <variable name="class" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
       <option name="COMPLETION" value="false" />
@@ -185,8 +149,6 @@
     <context>
       <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="false" />
-      <option name="COMPLETION" value="false" />
     </context>
   </template>
   <template name="mkn" value=" org.mockito.Mockito.doNothing().when($mock$).$method$$END$" description="do noting mockito" toReformat="true" toShortenFQNames="true" useStaticImport="true">
@@ -195,8 +157,6 @@
     <context>
       <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="false" />
-      <option name="COMPLETION" value="false" />
     </context>
   </template>
   <template name="mkr" value=" org.mockito.Mockito.doReturn($value$).when($mock$).$method$$END$" description="do return mockito" toReformat="true" toShortenFQNames="true" useStaticImport="true">
@@ -206,8 +166,6 @@
     <context>
       <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_EXPRESSION" value="true" />
-      <option name="JAVA_DECLARATION" value="false" />
-      <option name="COMPLETION" value="false" />
     </context>
   </template>
   <template name="mki" value="@org.mockito.InjectMocks&#10;private $type$ $instance$$END$;" description="the inject mockito mock (via annotation)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
@@ -221,7 +179,6 @@
   <template name="iam" value="/**&#10; * @author Eugene Stepanenkov&#10; */" description="my name with author tag" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
     </context>
   </template>
 </templateSet>
