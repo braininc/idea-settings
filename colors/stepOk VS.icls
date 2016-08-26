@@ -2,7 +2,7 @@
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="EDITOR_FONT_NAME" value="Anonymous Pro Minus" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_ROW_COLOR" value="eeeeee" />
     <option name="GUTTER_BACKGROUND" value="e0dde6" />
