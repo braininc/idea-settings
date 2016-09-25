@@ -1,17 +1,17 @@
 <scheme name="stepOk Darcula" version="142" parent_scheme="Darcula">
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="28" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="0.75" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b3f5c0" />
       </value>
+    </option>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value />
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
@@ -47,6 +47,9 @@
       <value>
         <option name="FOREGROUND" value="b3f5c0" />
       </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value />
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />

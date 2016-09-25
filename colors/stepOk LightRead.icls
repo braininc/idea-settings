@@ -1,18 +1,15 @@
 <scheme name="stepOk LightRead" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="0.9" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="0.7" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="CARET_ROW_COLOR" value="cfefa5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f2f2f2" />
     <option name="GUTTER_BACKGROUND" value="f2f2f2" />
     <option name="INDENT_GUIDE" value="eeeeee" />
-    <option name="LINE_NUMBERS_COLOR" value="999999" />
     <option name="METHOD_SEPARATORS_COLOR" value="ffffff" />
     <option name="RIGHT_MARGIN_COLOR" value="a7a7a7" />
     <option name="SELECTED_INDENT_GUIDE" value="0" />
@@ -518,16 +515,19 @@
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8a9927" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bdcb2e" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8a9927" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">

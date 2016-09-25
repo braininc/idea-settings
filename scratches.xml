@@ -1,14 +1,13 @@
 <application>
   <component name="ScratchFileService">
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="MySQL" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17" value="MySQL" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_18" value="Bash" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_19" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_20" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_21" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_22" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_23" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_24" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_25" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="HTML" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="JAVA" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="TEXT" />
   </component>
 </application>

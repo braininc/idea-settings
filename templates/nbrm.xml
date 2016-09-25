@@ -1,0 +1,11 @@
+<templateSet group="nbrm">
+  <template name="nbl" value="private static final com.stepbystep.nbrm.common.log.Logger LOGGER = com.stepbystep.nbrm.common.log.LoggerFactory.getLogger($class$.class);" description="nbrm logger" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="class" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="COMPLETION" value="false" />
+    </context>
+  </template>
+</templateSet>

@@ -2,10 +2,7 @@
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="db4c13" />
@@ -23,7 +20,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="9876aa" />
     <option name="FILESTATUS_MODIFIED" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -389,6 +385,7 @@
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
+        <option name="BACKGROUND" value="e76500" />
       </value>
     </option>
     <option name="DIFF_CONFLICT">
@@ -427,6 +424,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="411c1a" />
         <option name="EFFECT_COLOR" value="bc3f3c" />
         <option name="ERROR_STRIPE_COLOR" value="bc3f3c" />
         <option name="EFFECT_TYPE" value="2" />
@@ -484,6 +482,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="41153e" />
         <option name="EFFECT_COLOR" value="aeae80" />
         <option name="ERROR_STRIPE_COLOR" value="aeae80" />
         <option name="EFFECT_TYPE" value="2" />
@@ -561,6 +560,33 @@
         <option name="FOREGROUND" value="e0e2e4" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="2065ea" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="e89be8" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="21a8fe" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="d18164" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="d483f6" />
+      </value>
+    </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bcbcbc" />
@@ -622,6 +648,7 @@
     </option>
     <option name="TYPO">
       <value>
+        <option name="BACKGROUND" value="13411b" />
         <option name="EFFECT_COLOR" value="867f27" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -640,7 +667,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3e3e3e" />
+        <option name="BACKGROUND" value="9d7400" />
         <option name="ERROR_STRIPE_COLOR" value="ffca39" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -661,6 +688,7 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff4a47" />
+        <option name="BACKGROUND" value="411312" />
         <option name="EFFECT_COLOR" value="ffffff" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
