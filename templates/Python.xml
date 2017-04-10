@@ -4,6 +4,5 @@
     <variable name="VAR" expression="collectionElementName(ITERABLE)" defaultValue="" alwaysStopAt="true" />
     <variable name="KEY_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
     <variable name="VAL_EXPR" expression="" defaultValue="VAR" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
