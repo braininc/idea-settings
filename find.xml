@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.js</mask>
       <mask>*Service.java</mask>
       <mask>*ntroller.java</mask>
       <mask>*ller.java</mask>
@@ -23,18 +21,20 @@
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
       <mask>*</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.gradle</mask>
       <mask>*.gradl</mask>
       <mask>*.grad</mask>
       <mask>*.gra</mask>
       <mask>*.gr</mask>
       <mask>*.g</mask>
-      <mask>*.</mask>
       <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jva</mask>
+      <mask>*.jv</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
