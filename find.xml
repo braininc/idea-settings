@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*ller*Test*.java" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.py</mask>
       <mask>*.conf</mask>
       <mask>*Controller.java</mask>
       <mask>*.sql</mask>
@@ -14,7 +13,6 @@
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
-      <mask>*</mask>
       <mask>*.ja</mask>
       <mask>*.gradle</mask>
       <mask>*.gradl</mask>
@@ -22,8 +20,6 @@
       <mask>*.gra</mask>
       <mask>*.gr</mask>
       <mask>*.g</mask>
-      <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.jva</mask>
       <mask>*.jv</mask>
@@ -35,6 +31,10 @@
       <mask>*ller**.java</mask>
       <mask>*ller*T*.java</mask>
       <mask>*ller*Test*.java</mask>
+      <mask>8</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
