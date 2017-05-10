@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.conf</mask>
       <mask>*Controller.java</mask>
@@ -24,7 +24,6 @@
       <mask>*.jva</mask>
       <mask>*.jv</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>**.java</mask>
       <mask>*l*.java</mask>
       <mask>*ller*.java</mask>
@@ -33,8 +32,9 @@
       <mask>*ller*Test*.java</mask>
       <mask>8</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
