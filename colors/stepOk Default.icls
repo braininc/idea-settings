@@ -1,8 +1,11 @@
 <scheme name="stepOk Default" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="2.0" />
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="22" />
+  <option name="EDITOR_FONT_SIZE" value="24" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="22" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <attributes>
