@@ -5,14 +5,8 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*ITest.java" />
     <recentFileMasks>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xml</mask>
-      <mask>*.gradle</mask>
       <mask>*.gradl</mask>
       <mask>*.grad</mask>
       <mask>*.gra</mask>
@@ -37,6 +31,12 @@
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>I*.java</mask>
+      <mask>IT*.java</mask>
+      <mask>ITe*.java</mask>
+      <mask>ITest*.java</mask>
+      <mask>ITest.java</mask>
+      <mask>*ITest.java</mask>
     </recentFileMasks>
   </component>
 </application>
