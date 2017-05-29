@@ -254,6 +254,7 @@
       <value>
         <option name="FOREGROUND" value="ff" />
         <option name="BACKGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
