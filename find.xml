@@ -5,11 +5,8 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.gr</mask>
-      <mask>*.g</mask>
-      <mask>*.jva</mask>
       <mask>*.jv</mask>
       <mask>**.java</mask>
       <mask>*l*.java</mask>
@@ -19,14 +16,9 @@
       <mask>*ller*Test*.java</mask>
       <mask>8</mask>
       <mask>*</mask>
-      <mask>*.jav</mask>
-      <mask>*.j</mask>
-      <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.*</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>I*.java</mask>
       <mask>IT*.java</mask>
       <mask>ITe*.java</mask>
@@ -37,6 +29,14 @@
       <mask>*Dt.java</mask>
       <mask>*Dto.java</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.ыйд</mask>
+      <mask>*.ый</mask>
+      <mask>*.ы</mask>
+      <mask>*.</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
