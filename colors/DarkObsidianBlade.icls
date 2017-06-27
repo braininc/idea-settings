@@ -297,6 +297,7 @@
       <value>
         <option name="FOREGROUND" value="93c763" />
         <option name="BACKGROUND" value="293134" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -509,6 +510,13 @@
     <option name="Instance property reference ID">
       <value>
         <option name="FOREGROUND" value="a082bd" />
+      </value>
+    </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="93c763" />
+        <option name="BACKGROUND" value="293134" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
