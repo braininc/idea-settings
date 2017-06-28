@@ -1,6 +1,6 @@
 <scheme name="stepOk VS" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="2.0" />
-  <option name="EDITOR_FONT_SIZE" value="24" />
+  <option name="EDITOR_FONT_SIZE" value="26" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="21" />
@@ -429,6 +429,13 @@
     <option name="Instance property reference ID">
       <value>
         <option name="FOREGROUND" value="660e7a" />
+      </value>
+    </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+        <option name="BACKGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
