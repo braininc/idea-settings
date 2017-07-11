@@ -1,10 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="HQL" injector-id="java">
+      <display-name>HibernateCursorItemReader.setQueryString (org.springframework.batch.item.database)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setQueryString").withParameters("java.lang.String").definedInClass("org.springframework.batch.item.database.HibernateCursorItemReader"))]]></place>
+    </injection>
     <injection language="SpEL" injector-id="java">
       <display-name>Value.value (org.springframework.beans.factory.annotation)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.beans.factory.annotation.Value")]]></place>

@@ -1,8 +1,11 @@
 <scheme name="stepOk Default" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.25" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="FONT_SCALE" value="1.75" />
+  <option name="EDITOR_FONT_SIZE" value="24" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="22" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
