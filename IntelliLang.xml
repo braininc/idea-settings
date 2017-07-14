@@ -4,6 +4,10 @@
       <display-name>HibernateCursorItemReader.setQueryString (org.springframework.batch.item.database)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setQueryString").withParameters("java.lang.String").definedInClass("org.springframework.batch.item.database.HibernateCursorItemReader"))]]></place>
     </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>JdbcCursorItemReader.setSql (org.springframework.batch.item.database)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setSql").withParameters("java.lang.String").definedInClass("org.springframework.batch.item.database.JdbcCursorItemReader"))]]></place>
+    </injection>
     <injection language="HQL" injector-id="java">
       <display-name>SharedSessionContract.createQuery (org.hibernate)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
