@@ -4,6 +4,11 @@
       <display-name>HibernateCursorItemReader.setQueryString (org.springframework.batch.item.database)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setQueryString").withParameters("java.lang.String").definedInClass("org.springframework.batch.item.database.HibernateCursorItemReader"))]]></place>
     </injection>
+    <injection language="HQL" injector-id="java">
+      <display-name>SharedSessionContract.createQuery (org.hibernate)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.hibernate.SharedSessionContract"))]]></place>
+    </injection>
     <injection language="SpEL" injector-id="java">
       <display-name>Value.value (org.springframework.beans.factory.annotation)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.beans.factory.annotation.Value")]]></place>
