@@ -1,5 +1,5 @@
 <scheme name="stepOk RedTone" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="2.0" />
+  <option name="FONT_SCALE" value="1.75" />
   <option name="EDITOR_FONT_SIZE" value="22" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
@@ -254,6 +254,7 @@
       <value>
         <option name="FOREGROUND" value="6a0068" />
         <option name="BACKGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
