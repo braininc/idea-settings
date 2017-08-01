@@ -1,13 +1,11 @@
 <scheme name="stepOk LightRead" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="2.0" />
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="22" />
+  <option name="FONT_SCALE" value="1.75" />
+  <option name="EDITOR_FONT_SIZE" value="24" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="21" />
+  <option name="CONSOLE_FONT_SIZE" value="22" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_ROW_COLOR" value="cfefa5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f2f2f2" />
@@ -246,6 +244,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="a0" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -438,6 +437,7 @@
       <value>
         <option name="FOREGROUND" value="9a7ecf" />
         <option name="BACKGROUND" value="f9fbff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JAVA_LINE_COMMENT">
