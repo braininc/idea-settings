@@ -6,12 +6,6 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="shift alt back_slash" />
   </action>
-  <action id="EditorCompleteStatement">
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
-  <action id="EditorEnter">
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
-  </action>
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
