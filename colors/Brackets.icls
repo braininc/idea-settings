@@ -1,7 +1,4 @@
 <scheme name="Brackets" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.75" />
-  <option name="EDITOR_FONT_SIZE" value="24" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e0e0ff" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f8f8f8" />

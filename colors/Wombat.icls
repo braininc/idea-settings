@@ -1,8 +1,4 @@
 <scheme name="Wombat" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="2.0" />
-  <option name="EDITOR_FONT_SIZE" value="22" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />

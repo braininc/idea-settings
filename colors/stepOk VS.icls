@@ -1,8 +1,4 @@
 <scheme name="stepOk VS" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.75" />
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="22" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="CARET_ROW_COLOR" value="eeeeee" />
     <option name="GUTTER_BACKGROUND" value="e0dde6" />
