@@ -1,7 +1,4 @@
 <scheme name="stepOk Retro" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.75" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="24" />
   <colors>
     <option name="CARET_COLOR" value="21a8fe" />
     <option name="CARET_ROW_COLOR" value="56957f" />
