@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>ITe*.java</mask>
       <mask>ITest*.java</mask>
@@ -19,12 +19,8 @@
       <mask>*.ы</mask>
       <mask>*.k</mask>
       <mask>*.java=</mask>
-      <mask>*.gradle</mask>
       <mask>*.gradl</mask>
-      <mask>*.grad</mask>
-      <mask>*.gra</mask>
       <mask>*.gr</mask>
-      <mask>*.g</mask>
       <mask>*.jaca</mask>
       <mask>*.jac</mask>
       <mask>*.sql</mask>
@@ -35,8 +31,12 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
