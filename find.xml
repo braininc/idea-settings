@@ -5,12 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.yaml" />
     <recentFileMasks>
-      <mask>ITe*.java</mask>
-      <mask>ITest*.java</mask>
-      <mask>ITest.java</mask>
-      <mask>*ITest.java</mask>
       <mask>*D.java</mask>
       <mask>*Dt.java</mask>
       <mask>*Dto.java</mask>
@@ -27,16 +23,20 @@
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.jaa</mask>
-      <mask>*.jav</mask>
-      <mask>*.j</mask>
       <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradle</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ya</mask>
+      <mask>*.yam</mask>
+      <mask>*.yaml</mask>
     </recentFileMasks>
   </component>
 </application>
