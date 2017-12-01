@@ -3,7 +3,7 @@
     <property name="created">2017-11-30T22:24:03</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.6.0.0</property>
-    <property name="modified">2017-11-30T22:58:04</property>
+    <property name="modified">2017-12-01T22:49:42</property>
     <property name="originalScheme">stepOk VS</property>
   </metaInfo>
   <colors>
@@ -55,7 +55,6 @@
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="EFFECT_COLOR" value="0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -300,7 +299,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="99251e" />
+        <option name="FOREGROUND" value="994295" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -406,6 +405,12 @@
         <option name="FOREGROUND" value="2c91af" />
       </value>
     </option>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ff0006" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -428,7 +433,6 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="832c68" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -439,8 +443,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="cccccc" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
+        <option name="BACKGROUND" value="d2cf6e" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -512,6 +515,9 @@
         <option name="FOREGROUND" value="2c3886" />
       </value>
     </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value />
+    </option>
     <option name="PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -575,9 +581,14 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="f6855a" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7e0001" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
