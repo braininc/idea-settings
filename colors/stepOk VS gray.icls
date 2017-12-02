@@ -3,7 +3,7 @@
     <property name="created">2017-11-30T22:24:03</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.6.0.0</property>
-    <property name="modified">2017-12-01T22:49:42</property>
+    <property name="modified">2017-12-02T13:22:09</property>
     <property name="originalScheme">stepOk VS</property>
   </metaInfo>
   <colors>
@@ -555,7 +555,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="d4d4d4" />
+        <option name="BACKGROUND" value="f2f4e0" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
