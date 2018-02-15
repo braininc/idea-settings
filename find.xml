@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*Dto.java</mask>
       <mask>*.ыйд</mask>
@@ -28,15 +28,15 @@
       <mask>*.yaml</mask>
       <mask>*.sqkl</mask>
       <mask>*.sqk</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
