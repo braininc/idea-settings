@@ -5,13 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*Dto.java</mask>
-      <mask>*.ыйд</mask>
-      <mask>*.ый</mask>
-      <mask>*.ы</mask>
-      <mask>*.k</mask>
       <mask>*.java=</mask>
       <mask>*.gradl</mask>
       <mask>*.gr</mask>
@@ -35,8 +30,13 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.*</mask>
+      <mask>*.po</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
