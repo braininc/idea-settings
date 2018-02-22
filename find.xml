@@ -5,10 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*Dto.java" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.jaca</mask>
-      <mask>*.jac</mask>
       <mask>*.jaa</mask>
       <mask>*.g</mask>
       <mask>*.gra</mask>
@@ -35,8 +33,10 @@
       <mask>*.va</mask>
       <mask>*.v</mask>
       <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>*Dto.java</mask>
+      <mask>*Dt.java</mask>
+      <mask>*D.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
