@@ -1,7 +1,7 @@
 <scheme name="stepOk Default" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
