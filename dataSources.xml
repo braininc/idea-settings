@@ -1,5 +1,5 @@
 <application>
-  <component name="dataSourceStorage" format="xml">
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="local (ac_owner)" uuid="8ec495b8-2ae8-4daa-ad7e-b60fe1886d1b">
       <driver-ref>oracle</driver-ref>
       <synchronize>true</synchronize>
