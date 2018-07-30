@@ -1,0 +1,8 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="QuickList.Building&amp;TabWindows">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
+  <action id="QuickList.Debugging&amp;VCS&amp;IDE">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+</keymap>
