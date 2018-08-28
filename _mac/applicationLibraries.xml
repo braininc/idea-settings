@@ -1,0 +1,7 @@
+<application>
+  <component name="GwtSdkManager">
+    <gwt-sdk-list>
+      <gwt-sdk url="file:///usr/local/Cellar/gwt/2.8.2/libexec" />
+    </gwt-sdk-list>
+  </component>
+</application>
