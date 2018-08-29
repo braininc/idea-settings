@@ -1,13 +1,11 @@
 <application>
+  <component name="GwtSdkManager">
+    <gwt-sdk-list>
+      <gwt-sdk url="file://C:/Program Files (x86)/Google/gwt-2.8.2" />
+    </gwt-sdk-list>
+  </component>
   <component name="libraryTable">
-    <library name="scala-sdk-2.10.0" type="Scala">
-      <properties>
-        <compiler-classpath>
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.10.0.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.0.jar" />
-          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.0.jar" />
-        </compiler-classpath>
-      </properties>
+    <library name="scala-sdk-2.10.0">
       <CLASSES>
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.0.jar!/" />
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.0.jar!/" />
