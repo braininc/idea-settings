@@ -344,7 +344,7 @@
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="18aade" />
+        <option name="FOREGROUND" value="c50000" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -359,11 +359,7 @@
         <option name="ERROR_STRIPE_COLOR" value="ebebeb" />
       </value>
     </option>
-    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="18aade" />
-      </value>
-    </option>
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INHERITED_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="444444" />
@@ -381,7 +377,7 @@
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="18aade" />
+        <option name="FOREGROUND" value="b10000" />
       </value>
     </option>
     <option name="JAVA_KEYWORD">
@@ -466,6 +462,7 @@
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="885d3b" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
