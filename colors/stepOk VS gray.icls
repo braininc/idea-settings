@@ -3,7 +3,7 @@
     <property name="created">2017-11-30T22:24:03</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.6.0.0</property>
-    <property name="modified">2018-10-06T05:32:43</property>
+    <property name="modified">2018-11-10T05:14:15</property>
     <property name="originalScheme">stepOk VS</property>
   </metaInfo>
   <colors>
@@ -444,6 +444,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="bb7546" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -600,6 +602,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="bb7546" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
