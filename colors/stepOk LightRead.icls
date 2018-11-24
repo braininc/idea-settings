@@ -292,7 +292,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="c4c4b7" />
+        <option name="FOREGROUND" value="7f7f77" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -516,7 +516,7 @@
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bdcb2e" />
+        <option name="FOREGROUND" value="999929" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
