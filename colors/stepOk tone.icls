@@ -3,7 +3,7 @@
     <property name="created">2018-12-17T10:46:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.7.0.0</property>
-    <property name="modified">2018-12-24T01:24:08</property>
+    <property name="modified">2019-01-02T19:36:15</property>
     <property name="originalScheme">stepOk VS gray</property>
   </metaInfo>
   <colors>
@@ -18,8 +18,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="e0d0d1" />
     <option name="SELECTED_INDENT_GUIDE" value="0" />
     <option name="SELECTED_TEARLINE_COLOR" value="add6ff" />
-    <option name="SELECTION_BACKGROUND" value="fbfffb" />
-    <option name="SELECTION_FOREGROUND" value="0" />
+    <option name="SELECTION_BACKGROUND" value="81c4ff" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="bfc075" />
     <option name="TEARLINE_COLOR" value="50501" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="c8be5b" />
