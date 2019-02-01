@@ -42,4 +42,7 @@
     </option>
     <option name="cloneParentDir" value="C:\workspace" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/IdeaProjects/cad-reporting-service-api" />
+  </component>
 </application>
