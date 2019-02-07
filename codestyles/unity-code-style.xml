@@ -1,4 +1,4 @@
-<code_scheme name="stepOk" version="173">
+<code_scheme name="unity-code-style" version="173">
   <option name="GENERATE_FINAL_LOCALS" value="true" />
   <option name="GENERATE_FINAL_PARAMETERS" value="true" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1000" />
@@ -35,9 +35,6 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
-  <MultiMarkdownCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MultiMarkdownCodeStyleSettings>
   <SqlCodeStyleSettings version="0">
     <option name="myVersion" value="0" />
     <option name="ALIAS_CASE" value="4" />

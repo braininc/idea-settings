@@ -1,10 +1,10 @@
-<scheme name="stepOk VS gray" version="142" parent_scheme="Default">
+<scheme name="stepOk tone" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2017-11-30T22:24:03</property>
+    <property name="created">2018-12-17T10:46:57</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2017.2.6.0.0</property>
-    <property name="modified">2018-11-10T07:49:14</property>
-    <property name="originalScheme">stepOk VS</property>
+    <property name="ideVersion">2018.2.7.0.0</property>
+    <property name="modified">2019-01-02T19:36:15</property>
+    <property name="originalScheme">stepOk VS gray</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="6cbe4e" />
@@ -13,24 +13,18 @@
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="ffd300" />
     <option name="LINE_NUMBERS_COLOR" value="0" />
-    <option name="METHOD_SEPARATORS_COLOR" value="ffd300" />
+    <option name="METHOD_SEPARATORS_COLOR" value="ffffff" />
     <option name="MODIFIED_LINES_COLOR" value="616cf3" />
     <option name="RIGHT_MARGIN_COLOR" value="e0d0d1" />
     <option name="SELECTED_INDENT_GUIDE" value="0" />
     <option name="SELECTED_TEARLINE_COLOR" value="add6ff" />
-    <option name="SELECTION_BACKGROUND" value="ffed8b" />
-    <option name="SELECTION_FOREGROUND" value="0" />
+    <option name="SELECTION_BACKGROUND" value="81c4ff" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="bfc075" />
     <option name="TEARLINE_COLOR" value="50501" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="c8be5b" />
   </colors>
   <attributes>
-    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="2c91af" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="ABSTRACT_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -38,18 +32,12 @@
     </option>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6a6614" />
+        <option name="FOREGROUND" value="816365" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="6a6614" />
-      </value>
-    </option>
-    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="2c91af" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FOREGROUND" value="816365" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -80,12 +68,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="2c91af" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="a31515" />
@@ -110,12 +92,12 @@
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2c91af" />
+        <option name="FOREGROUND" value="7273db" />
       </value>
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2c91af" />
+        <option name="FOREGROUND" value="7273db" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -182,7 +164,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8000" />
+        <option name="FOREGROUND" value="164f23" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -198,7 +180,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="2c91af" />
+        <option name="FOREGROUND" value="7273db" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -223,7 +205,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8000" />
+        <option name="FOREGROUND" value="164f23" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -252,17 +234,17 @@
     <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="2c3886" />
+        <option name="FOREGROUND" value="633660" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="2c3886" />
+        <option name="FOREGROUND" value="633660" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="2c91af" />
+        <option name="FOREGROUND" value="897bdb" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -284,7 +266,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8000" />
+        <option name="FOREGROUND" value="164f23" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -300,7 +282,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="994295" />
+        <option name="FOREGROUND" value="263943" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -335,19 +317,19 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="2c3886" />
+        <option name="FOREGROUND" value="864e82" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="2c3886" />
+        <option name="FOREGROUND" value="864e82" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="a31515" />
+        <option name="FOREGROUND" value="746d2c" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -357,7 +339,7 @@
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="757575" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -404,21 +386,16 @@
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="164f23" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
-    <option name="ENUM_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="2c91af" />
-      </value>
-    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ff0006" />
+        <option name="BACKGROUND" value="ffa1ad" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -455,7 +432,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="d2cf6e" />
+        <option name="BACKGROUND" value="e5e0e5" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -469,24 +446,21 @@
         <option name="FOREGROUND" value="0" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="2c3886" />
-      </value>
-    </option>
-    <option name="INTERFACE_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="2c91af" />
-      </value>
-    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="Instance property reference ID">
       <value>
         <option name="FOREGROUND" value="660e7a" />
       </value>
     </option>
+    <option name="JAVA_DOC_TAG">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ff" />
+        <option name="FOREGROUND" value="3b453e" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -567,7 +541,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="fdffeb" />
+        <option name="BACKGROUND" value="ecebee" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -584,7 +558,7 @@
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="2c91af" />
+        <option name="FOREGROUND" value="897bdb" />
       </value>
     </option>
     <option name="TYPO">
@@ -593,9 +567,15 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="Unused entry">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f6855a" />
+        <option name="BACKGROUND" value="f6d688" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
