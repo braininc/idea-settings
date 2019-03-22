@@ -12,11 +12,12 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.gradle</mask>
-    <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*Controller.java</mask>
     <mask>*.*</mask>
+    <mask>*IT.java</mask>
+    <mask>pom.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
