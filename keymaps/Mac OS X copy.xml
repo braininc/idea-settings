@@ -1,6 +1,16 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta alt back_space" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta alt back_slash" />
   </action>
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift meta v" />
