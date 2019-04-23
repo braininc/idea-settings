@@ -38,6 +38,7 @@
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="INSERT_VALUES_EL_LINE" value="101" />
     <option name="INSERT_EL_WRAP" value="1" />
     <option name="INSERT_EL_COMMA" value="2" />
     <option name="SET_EL_WRAP" value="0" />
