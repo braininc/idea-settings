@@ -7,4 +7,6 @@
   <action id="CompileProject" />
   <action id="BuildArtifact" />
   <action id="MakeModule" />
+  <action id="QuickList.$Separator$" />
+  <action id="Maven.Reimport" />
 </list>
