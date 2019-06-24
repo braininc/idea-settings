@@ -1,10 +1,10 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="local root" uuid="f50f6ce2-3bce-4e3d-b77f-911f03ed18a7">
-      <driver-ref>mysql.8</driver-ref>
+    <data-source source="LOCAL" name="qa UIO" uuid="f50f6ce2-3bce-4e3d-b77f-911f03ed18a7">
+      <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/</jdbc-url>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://qa-cc-csf-db.cadreonint.com:3306/qa_cadreon_csf</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
