@@ -28,7 +28,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="qa client reporting" uuid="ec1f544c-79b8-424c-860a-b73b80a2717e">
+    <data-source source="LOCAL" name="qa Client Reports" uuid="ec1f544c-79b8-424c-860a-b73b80a2717e">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
@@ -43,7 +43,7 @@
       </driver-properties>
       <auto-close enable="true" timeout="12000" />
     </data-source>
-    <data-source source="LOCAL" name="csf local" uuid="b01b641c-ebb1-4487-8119-61aed11c0de0">
+    <data-source source="LOCAL" name="local UIO" uuid="b01b641c-ebb1-4487-8119-61aed11c0de0">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -57,7 +57,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="local" uuid="a7a10d20-1985-4f59-9610-07ac8909f342">
+    <data-source source="LOCAL" name="local Reports" uuid="a7a10d20-1985-4f59-9610-07ac8909f342">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -71,7 +71,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="qa report" uuid="8db34789-24ab-4c79-9e2f-0b01ef7901aa">
+    <data-source source="LOCAL" name="qa Reports" uuid="8db34789-24ab-4c79-9e2f-0b01ef7901aa">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
