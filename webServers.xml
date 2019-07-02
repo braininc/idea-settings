@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="01708f3f-3b92-4fbb-aa7a-728bb8e323e7" name="qa uio 1" url="http://34.207.148.216">
+        <fileTransfer host="34.207.148.216" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="03fbcd0d-0755-41cc-a2b7-2cadf38cf1b6" name="dev uio 1" url="http://54.159.241.122">
+        <fileTransfer host="54.159.241.122" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a30287e5-db32-4cc6-97ec-87155485fbb2" name="qa uio 2" url="http://3.91.224.142">
+        <fileTransfer host="3.91.224.142" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
