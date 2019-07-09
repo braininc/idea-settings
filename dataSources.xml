@@ -117,7 +117,21 @@
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://csf-db-stage-1.cz2d8gcearsx.us-east-1.rds.amazonaws.com:3306/stage_cadreon_reporting</jdbc-url>
+      <jdbc-url>jdbc:mysql://csf-db-stage-1.cz2d8gcearsx.us-east-1.rds.amazonaws.com:3306/stage_cadreon_csf</jdbc-url>
+      <driver-properties>
+        <property name="autoReconnect" value="true" />
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+        <property name="characterEncoding" value="utf8" />
+        <property name="characterSetResults" value="utf8" />
+        <property name="yearIsDateType" value="false" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="stage Reports" uuid="f831f3f3-71f2-4f2d-952e-aa7912acbcfa">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://reporting-db-stage-1.cz2d8gcearsx.us-east-1.rds.amazonaws.com:3306/stage_cadreon_reporting</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
