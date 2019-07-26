@@ -33,6 +33,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="beaaaa39-bb12-4602-a381-e8f92abe1caf" name="dev report" url="http://184.73.114.128">
+        <fileTransfer host="184.73.114.128" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
