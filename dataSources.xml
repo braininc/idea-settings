@@ -99,11 +99,11 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="dev UIO" uuid="ba7baa80-f81a-4080-9429-ff1346a8b91f">
+    <data-source source="LOCAL" name="qa CM" uuid="ba7baa80-f81a-4080-9429-ff1346a8b91f">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://authdb-dev-1.ckvgpujcycok.us-east-1.rds.amazonaws.com:3306/dev_cadreon_csf</jdbc-url>
+      <jdbc-url>jdbc:mysql://qa-cc-campaign-db.cadreonint.com:3306/qa_cadreon_cm</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
