@@ -1,6 +1,6 @@
 <scheme name="Dreamweaver" version="142" parent_scheme="Default">
   <colors>
-    <option name="CARET_ROW_COLOR" value="a3a3f7" />
+    <option name="CARET_ROW_COLOR" value="dbdcf7" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
     <option name="INDENT_GUIDE" value="999999" />
     <option name="LINE_NUMBERS_COLOR" value="cccccc" />
@@ -131,7 +131,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="35ff57" />
+        <option name="FOREGROUND" value="1d8a2f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -155,7 +155,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="35ff57" />
+        <option name="FOREGROUND" value="1d8a2f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -196,7 +196,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="339900" />
+        <option name="FOREGROUND" value="216300" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -213,12 +213,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="336600" />
+        <option name="FOREGROUND" value="3d8488" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="35ff57" />
+        <option name="FOREGROUND" value="1d8a2f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -244,7 +244,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="35ff57" />
+        <option name="FOREGROUND" value="1d8a2f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
