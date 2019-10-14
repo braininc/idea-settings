@@ -138,7 +138,6 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="66" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -188,6 +187,12 @@
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
         <option name="FOREGROUND" value="586e86" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="3d3d3d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -289,7 +294,6 @@
     <option name="DEFAULT_PARAMETER">
       <value>
         <option name="FOREGROUND" value="66" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -311,7 +315,7 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="5314d" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -431,30 +435,13 @@
         <option name="FOREGROUND" value="170591" />
       </value>
     </option>
-    <option name="PARAMETER_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="66" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="e8caff" />
         <option name="ERROR_STRIPE_COLOR" value="b186ff" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="5314d" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="680069" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
@@ -472,12 +459,7 @@
         <option name="ERROR_STRIPE_COLOR" value="efefef" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="66" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="f91000" />
