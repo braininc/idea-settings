@@ -9,9 +9,10 @@
     <option name="INDENT_GUIDE" value="ccc" />
     <option name="LINE_NUMBERS_COLOR" value="aaa" />
     <option name="METHOD_SEPARATORS_COLOR" value="efefe0" />
+    <option name="NOTIFICATION_BACKGROUND" value="f6d6f8" />
     <option name="SELECTED_INDENT_GUIDE" value="0" />
     <option name="SELECTED_TEARLINE_COLOR" value="ccc" />
-    <option name="SELECTION_BACKGROUND" value="ccc" />
+    <option name="SELECTION_BACKGROUND" value="fb878a" />
     <option name="SELECTION_FOREGROUND" value="0" />
     <option name="TEARLINE_COLOR" value="efefe0" />
   </colors>
@@ -117,14 +118,21 @@
         <option name="FOREGROUND" value="ff931f" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
     <option name="DEFAULT_BRACES">
       <value>
         <option name="FOREGROUND" value="55b6bc" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="55b6bc" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -140,11 +148,13 @@
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="639b9f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="53dccd" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -157,6 +167,12 @@
         <option name="FOREGROUND" value="9393cc" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="3d3d3d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="cc9393" />
@@ -165,6 +181,7 @@
     <option name="DEFAULT_DOT">
       <value>
         <option name="FOREGROUND" value="639b9f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -190,6 +207,7 @@
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="474747" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -215,6 +233,13 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="5fa6bf" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LABEL">
+      <value>
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -235,36 +260,53 @@
     <option name="DEFAULT_NUMBER">
       <value>
         <option name="FOREGROUND" value="ff931f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="639b9f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
         <option name="FOREGROUND" value="55b6bc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_REASSIGNED_PARAMETER">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="639b9f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="93a2cc" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="9f9f95" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="cc3300" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -306,13 +348,12 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ccc" />
+        <option name="BACKGROUND" value="13bbcc" />
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="616161" />
-        <option name="ERROR_STRIPE_COLOR" value="616161" />
+        <option name="BACKGROUND" value="ddd6f0" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -357,18 +398,14 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="616161" />
-        <option name="ERROR_STRIPE_COLOR" value="616161" />
+        <option name="BACKGROUND" value="f6d6f8" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES">
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="93a2cc" />
-      </value>
-    </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="9393cc" />
+        <option name="FOREGROUND" value="660e7a" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
@@ -384,20 +421,23 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="464467" />
-        <option name="ERROR_STRIPE_COLOR" value="464467" />
+        <option name="BACKGROUND" value="a8a4f8" />
+      </value>
+    </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="20999d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="948567" />
-        <option name="ERROR_STRIPE_COLOR" value="948567" />
+        <option name="BACKGROUND" value="d6c095" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="948567" />
-        <option name="ERROR_STRIPE_COLOR" value="948567" />
+        <option name="BACKGROUND" value="e2cb9d" />
       </value>
     </option>
   </attributes>
