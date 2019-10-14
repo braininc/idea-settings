@@ -1,6 +1,7 @@
 <application>
   <component name="DefaultFont">
-    <option name="LINE_SPACING" value="1.0" />
+    <option name="FONT_FAMILY" value="Cascadia Code" />
+    <option name="LINE_SPACING" value="1.3" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
