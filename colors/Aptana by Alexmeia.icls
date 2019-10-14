@@ -119,7 +119,7 @@
     </option>
     <option name="DEFAULT_BRACES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="55b6bc" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
@@ -209,7 +209,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ff7b79" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -244,7 +244,7 @@
     </option>
     <option name="DEFAULT_PARENTHS">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="55b6bc" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">

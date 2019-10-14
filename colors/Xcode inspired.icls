@@ -1,8 +1,5 @@
 <scheme name="Xcode inspired" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code Light" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LINE_SPACING" value="0.8" />
@@ -127,13 +124,11 @@
     <option name="DEFAULT_BRACES">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BRACKETS">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -189,8 +184,6 @@
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -262,7 +255,6 @@
     <option name="DEFAULT_PARENTHS">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
