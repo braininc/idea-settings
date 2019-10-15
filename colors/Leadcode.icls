@@ -1,8 +1,7 @@
 <scheme name="Leadcode" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="CONSOLE_FONT_NAME" value="Fira Code Light" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code Retina" />
+  <option name="CONSOLE_LINE_SPACING" value="0.8" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="50a14e" />
     <option name="ANNOTATIONS_COLOR" value="232324" />
@@ -513,6 +512,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="b309a1" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
@@ -563,14 +563,12 @@
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="986801" />
-        <option name="EFFECT_COLOR" value="252b39" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_PARAMETER">
       <value>
         <option name="FOREGROUND" value="383a42" />
-        <option name="EFFECT_COLOR" value="383a42" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -950,6 +948,11 @@
       <value>
         <option name="FOREGROUND" value="424243" />
         <option name="BACKGROUND" value="eaeaeb" />
+      </value>
+    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
       </value>
     </option>
     <option name="IVAR">
@@ -2561,6 +2564,12 @@
     <option name="SPEL$BACKGROUND">
       <value>
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="Scala Predefined types">
