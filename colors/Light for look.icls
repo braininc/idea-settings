@@ -1,7 +1,6 @@
 <scheme name="Light for look" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code Light" />
-  <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LINE_SPACING" value="0.8" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e7eaeb" />
