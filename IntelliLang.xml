@@ -29,5 +29,9 @@
       <display-name>Value.value (org.springframework.beans.factory.annotation)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.beans.factory.annotation.Value")]]></place>
     </injection>
+    <injection language="ThymeleafTemplatesExpressions" injector-id="xml">
+      <display-name>div</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
   </component>
 </application>
