@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="4b3310bd-ccef-465a-b6e1-fa54f6862b90" name="qa report" url="http://18.232.164.211">
+        <fileTransfer host="18.232.164.211" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
