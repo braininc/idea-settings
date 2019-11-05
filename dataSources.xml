@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="qa UIO" uuid="f50f6ce2-3bce-4e3d-b77f-911f03ed18a7">
+    <data-source source="LOCAL" name="[ qa ] UIO" uuid="f50f6ce2-3bce-4e3d-b77f-911f03ed18a7">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -14,7 +14,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="qa wso2" uuid="8e3eee6a-b5a5-4da8-bd92-a4eb11767bce">
+    <data-source source="LOCAL" name="[ qa ] CORE AUTH" uuid="8e3eee6a-b5a5-4da8-bd92-a4eb11767bce">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -28,7 +28,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="qa Client Reports" uuid="ec1f544c-79b8-424c-860a-b73b80a2717e">
+    <data-source source="LOCAL" name="[ qa ] ENDPOINT" uuid="ec1f544c-79b8-424c-860a-b73b80a2717e">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
@@ -43,7 +43,7 @@
       </driver-properties>
       <auto-close enable="true" timeout="12000" />
     </data-source>
-    <data-source source="LOCAL" name="local UIO" uuid="b01b641c-ebb1-4487-8119-61aed11c0de0">
+    <data-source source="LOCAL" name="[ local ] UIO" uuid="b01b641c-ebb1-4487-8119-61aed11c0de0">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -57,7 +57,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="local Reports" uuid="a7a10d20-1985-4f59-9610-07ac8909f342">
+    <data-source source="LOCAL" name="[ local ] REPORTS" uuid="a7a10d20-1985-4f59-9610-07ac8909f342">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -71,7 +71,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="qa Reports" uuid="8db34789-24ab-4c79-9e2f-0b01ef7901aa">
+    <data-source source="LOCAL" name="[ qa ] REPORTS" uuid="8db34789-24ab-4c79-9e2f-0b01ef7901aa">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -85,7 +85,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="dev Reports" uuid="801bdf53-a01a-4b88-9555-de92e28823c1">
+    <data-source source="LOCAL" name="[ dev ] REPORTS" uuid="801bdf53-a01a-4b88-9555-de92e28823c1">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -99,7 +99,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="qa CM" uuid="ba7baa80-f81a-4080-9429-ff1346a8b91f">
+    <data-source source="LOCAL" name="[ qa ] CM" uuid="ba7baa80-f81a-4080-9429-ff1346a8b91f">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -113,7 +113,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="stage UIO" uuid="f6f36e6d-6098-4f44-87fa-77aa9e7b014d">
+    <data-source source="LOCAL" name="[ stage ] UIO" uuid="f6f36e6d-6098-4f44-87fa-77aa9e7b014d">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -127,7 +127,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="stage Reports" uuid="f831f3f3-71f2-4f2d-952e-aa7912acbcfa">
+    <data-source source="LOCAL" name="[ stage ] REPORTS" uuid="f831f3f3-71f2-4f2d-952e-aa7912acbcfa">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -141,7 +141,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="prod UIO" uuid="07ac2ce5-999d-4332-b403-38f5f98be298">
+    <data-source source="LOCAL" name="[ prod ] UIO" uuid="07ac2ce5-999d-4332-b403-38f5f98be298">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -155,7 +155,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="prod Reports" uuid="f39577fb-408d-4ad5-8737-91e617446357">
+    <data-source source="LOCAL" name="[ prod ] REPORTS" uuid="f39577fb-408d-4ad5-8737-91e617446357">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -169,7 +169,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="local CM" uuid="62e381c1-d86c-4afd-8cd2-7a4127dd1264">
+    <data-source source="LOCAL" name="[ local ] CM" uuid="62e381c1-d86c-4afd-8cd2-7a4127dd1264">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -183,7 +183,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="ci Reports" uuid="31d5b897-292a-4208-a97d-98955ce6c8eb">
+    <data-source source="LOCAL" name="[ ci ] REPORTS" uuid="31d5b897-292a-4208-a97d-98955ce6c8eb">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -197,7 +197,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="prod CM" uuid="dda25111-e49d-4ea5-b76f-5e5178c102a2">
+    <data-source source="LOCAL" name="[ prod ] CM" uuid="dda25111-e49d-4ea5-b76f-5e5178c102a2">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
