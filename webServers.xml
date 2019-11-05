@@ -1,15 +1,15 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="01708f3f-3b92-4fbb-aa7a-728bb8e323e7" name="qa uio 1" url="http://34.207.148.216">
-        <fileTransfer host="34.207.148.216" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
+      <webServer id="01708f3f-3b92-4fbb-aa7a-728bb8e323e7" name="[ qa ] UIO node1" url="http://3.91.71.50">
+        <fileTransfer host="3.91.71.50" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="03fbcd0d-0755-41cc-a2b7-2cadf38cf1b6" name="dev uio 1" url="http://54.159.241.122">
+      <webServer id="03fbcd0d-0755-41cc-a2b7-2cadf38cf1b6" name="[ dev ] UIO node1" url="http://54.159.241.122">
         <fileTransfer host="54.159.241.122" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
@@ -17,7 +17,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="a30287e5-db32-4cc6-97ec-87155485fbb2" name="qa uio 2" url="http://3.91.224.142">
+      <webServer id="a30287e5-db32-4cc6-97ec-87155485fbb2" name="[ qa ] UIO node2" url="http://3.91.224.142">
         <fileTransfer host="3.91.224.142" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
@@ -25,7 +25,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="64711081-c0d4-4ab1-97ef-5b4d9588ba47" name="support uio 1" url="http://3.80.82.234">
+      <webServer id="64711081-c0d4-4ab1-97ef-5b4d9588ba47" name="[ support ] UIO node1" url="http://3.80.82.234">
         <fileTransfer host="3.80.82.234" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
@@ -33,7 +33,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="beaaaa39-bb12-4602-a381-e8f92abe1caf" name="dev report" url="http://184.73.114.128">
+      <webServer id="beaaaa39-bb12-4602-a381-e8f92abe1caf" name="[ dev ] REPORTS node1" url="http://184.73.114.128">
         <fileTransfer host="184.73.114.128" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
@@ -41,8 +41,40 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="4b3310bd-ccef-465a-b6e1-fa54f6862b90" name="qa report" url="http://18.232.164.211">
+      <webServer id="4b3310bd-ccef-465a-b6e1-fa54f6862b90" name="[ qa ] REPORTS node1" url="http://18.232.164.211">
         <fileTransfer host="18.232.164.211" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="146fafa5-ace0-483a-8bfd-d00f153737d4" name="[ qa ] CORE AUTH node1" url="http://54.91.226.40">
+        <fileTransfer host="54.91.226.40" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e19e7855-0b98-4000-bb2b-6c5a67eecf31" name="[ qa ] CORE AUTH node2" url="http://qa-core-auth2v-0ce4ce2b04012b0f0.cadreonint.com">
+        <fileTransfer host="qa-core-auth2v-0ce4ce2b04012b0f0.cadreonint.com" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ccf70bed-65f1-4182-9833-d3b4558c342f" name="[ ci ] UIO node1" url="http://3.92.73.40">
+        <fileTransfer host="3.92.73.40" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a3bfe32f-cc8e-456e-8832-d6aee189dc8f" name="[ ci ] UIO node2" url="http://54.91.137.251">
+        <fileTransfer host="54.91.137.251" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

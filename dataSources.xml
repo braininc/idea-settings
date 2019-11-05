@@ -18,7 +18,7 @@
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://wso2-restored.ckvgpujcycok.us-east-1.rds.amazonaws.com:3306/authdb</jdbc-url>
+      <jdbc-url>jdbc:mysql://authdb.ckvgpujcycok.us-east-1.rds.amazonaws.com:3306/authdb</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
