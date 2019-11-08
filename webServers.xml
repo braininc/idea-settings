@@ -81,6 +81,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="9ea36325-f264-4213-bdcb-a261ed242d65" name="[ ci ] REPORTS node1" url="http://3.95.196.219">
+        <fileTransfer host="3.95.196.219" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
