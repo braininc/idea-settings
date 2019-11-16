@@ -4,10 +4,10 @@
     <property name="created">2019-08-16T19:39:32</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.4.0.0</property>
-    <property name="modified">2019-11-16T10:35:32</property>
+    <property name="modified">2019-11-16T15:54:55</property>
     <property name="originalScheme">silkworm</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Fira Code Light" />
+  <option name="CONSOLE_FONT_NAME" value="Cascadia Code" />
   <option name="CONSOLE_FONT_SIZE" value="10" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
