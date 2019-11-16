@@ -6,8 +6,9 @@
   <action id="Git.Merge" />
   <action id="ChangesView.CreatePatch" />
   <action id="ChangesView.ApplyPatch" />
-  <action id="QuickList.$Separator$" />
+  <action id="Git.CompareWithBranch" />
   <action id="InvalidateCaches" />
   <action id="QuickList.$Separator$" />
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" />
+  <action id="QuickList.$Separator$" />
 </list>
