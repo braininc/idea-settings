@@ -141,7 +141,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="[ prod ] UIO" uuid="07ac2ce5-999d-4332-b403-38f5f98be298">
+    <data-source source="LOCAL" name="[ very local ] UIO" read-only="true" uuid="07ac2ce5-999d-4332-b403-38f5f98be298">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -155,7 +155,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="[ prod ] REPORTS" uuid="f39577fb-408d-4ad5-8737-91e617446357">
+    <data-source source="LOCAL" name="[ very local ] REPORTS" read-only="true" uuid="f39577fb-408d-4ad5-8737-91e617446357">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
@@ -197,7 +197,7 @@
         <property name="yearIsDateType" value="false" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="[ prod ] CM" uuid="dda25111-e49d-4ea5-b76f-5e5178c102a2">
+    <data-source source="LOCAL" name="[ very local ] CM" read-only="true" uuid="dda25111-e49d-4ea5-b76f-5e5178c102a2">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
