@@ -8,7 +8,7 @@
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
-    <entry key="editor.distraction.free.mode" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
