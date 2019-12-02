@@ -4,12 +4,15 @@
   </component>
   <component name="UISettings">
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
+    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
     <option name="MAX_LOOKUP_WIDTH2" value="819" />
     <option name="MERGE_EQUAL_STACKTRACES" value="false" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="SHOW_STATUS_BAR" value="false" />
     <option name="SHOW_TABS_TOOLTIPS" value="false" />
     <option name="SORT_BOOKMARKS" value="true" />
   </component>
