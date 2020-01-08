@@ -89,6 +89,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="9e53a3d9-9ccc-4ee9-83fa-3f9097c99031" name="[ qa ] ENDPOINT node1" url="http://54.173.222.249">
+        <fileTransfer host="54.173.222.249" port="22" privateKey="$USER_HOME$/secret/ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
