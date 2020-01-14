@@ -1,12 +1,24 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="MySQL" injector-id="java">
+      <display-name>Delete.value (org.apache.ibatis.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Delete")]]></place>
+    </injection>
     <injection language="HQL" injector-id="java">
       <display-name>HibernateCursorItemReader.setQueryString (org.springframework.batch.item.database)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setQueryString").withParameters("java.lang.String").definedInClass("org.springframework.batch.item.database.HibernateCursorItemReader"))]]></place>
     </injection>
     <injection language="MySQL" injector-id="java">
+      <display-name>Insert.value (org.apache.ibatis.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Insert")]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
       <display-name>JdbcCursorItemReader.setSql (org.springframework.batch.item.database)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setSql").withParameters("java.lang.String").definedInClass("org.springframework.batch.item.database.JdbcCursorItemReader"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>Select.value (org.apache.ibatis.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.apache.ibatis.annotations.Select")]]></place>
     </injection>
     <injection language="HQL" injector-id="java">
       <display-name>SharedSessionContract.createQuery (org.hibernate)</display-name>
@@ -16,6 +28,10 @@
     <injection language="SpEL" injector-id="java">
       <display-name>Value.value (org.springframework.beans.factory.annotation)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.beans.factory.annotation.Value")]]></place>
+    </injection>
+    <injection language="ThymeleafTemplatesExpressions" injector-id="xml">
+      <display-name>div</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
     </injection>
   </component>
 </application>

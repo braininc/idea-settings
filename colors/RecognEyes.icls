@@ -20,32 +20,22 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="101020" />
-    <option name="INDENT_GUIDE" value="ff" />
+    <option name="INDENT_GUIDE" value="4c4c4e" />
     <option name="LINE_NUMBERS_COLOR" value="2b91af" />
     <option name="METHOD_SEPARATORS_COLOR" value="202030" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="ffffff" />
-    <option name="SELECTED_TEARLINE_COLOR" value="ff" />
+    <option name="SELECTED_TEARLINE_COLOR" value="500f2" />
     <option name="SELECTION_BACKGROUND" value="ff" />
     <option name="TEARLINE_COLOR" value="202030" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
-    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ff8080" />
-      </value>
-    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d9e577" />
-      </value>
-    </option>
-    <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ff8080" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -61,11 +51,6 @@
     <option name="Block comment">
       <value>
         <option name="FOREGROUND" value="e000" />
-      </value>
-    </option>
-    <option name="CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ff8080" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
@@ -107,6 +92,11 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="e000" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="86638b" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -176,7 +166,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="ff8080" />
+        <option name="FOREGROUND" value="9a6da1" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -317,12 +307,12 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="efc090" />
+        <option name="FOREGROUND" value="ff718f" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="bed6ff" />
+        <option name="FOREGROUND" value="ff718f" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -510,20 +500,11 @@
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="efc090" />
-      </value>
-    </option>
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9114ad" />
         <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="d9e577" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">

@@ -6,6 +6,8 @@
   <action id="Git.Merge" />
   <action id="ChangesView.CreatePatch" />
   <action id="ChangesView.ApplyPatch" />
+  <action id="Vcs.ShowDiffWithLocal" />
+  <action id="CheckinFiles" />
   <action id="QuickList.$Separator$" />
   <action id="InvalidateCaches" />
   <action id="QuickList.$Separator$" />

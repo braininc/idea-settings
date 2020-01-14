@@ -290,8 +290,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="da8a40" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="bc82da" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -467,12 +466,7 @@
         <option name="ERROR_STRIPE_COLOR" value="ffffee" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="da8a40" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="f0d0d0" />
